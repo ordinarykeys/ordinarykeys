@@ -207,16 +207,24 @@ Bridge   局域网扫码连接手机端
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ordinarykeys&show_icons=true&theme=transparent&hide_border=true&title_color=0f766e&text_color=334155&icon_color=2563eb" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ordinarykeys&layout=compact&theme=transparent&hide_border=true&title_color=0f766e&text_color=334155" />
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ordinarykeys&theme=vue" />
 
 <br /><br />
 
-![ordinarykeys 的 GitHub 修仙统计](https://github-immortality.vercel.app/api?username=ordinarykeys)
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ordinarykeys&theme=vue" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ordinarykeys&theme=vue" />
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ordinarykeys&theme=github-compact&hide_border=true&area=true&color=0f766e&line=2563eb&point=020617" />
+<img width="96%" src="https://streak-stats.demolab.com?user=ordinarykeys&theme=transparent&hide_border=true&ring=0f766e&fire=2563eb&currStreakLabel=0f766e&sideLabels=334155&dates=64748b" />
+
+<br /><br />
+
+<img width="96%" src="https://github-immortality.vercel.app/api?username=ordinarykeys" />
+
+<br /><br />
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ordinarykeys&theme=github-compact&hide_border=true&area=true&color=0f766e&line=2563eb&point=020617" />
 
 </div>
 
