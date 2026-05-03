@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f766e,70:2563eb,100:111827&height=220&section=header&text=ordinarykeys&fontColor=f8fafc&fontSize=58&fontAlignY=36&desc=EAiCoding%20%7C%20%E6%98%93%E8%AF%AD%E8%A8%80%20AI%20Coding%20Agent%20%7C%20%E5%9B%BD%E9%A3%8E%E7%A7%91%E6%8A%80%E6%84%9F&descSize=17&descAlignY=58" />
-
-<br />
+<img src="./assets/ink-banner.svg" width="100%" alt="ordinarykeys ink technology banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2600&pause=900&color=0F766E&center=true&vCenter=true&width=820&lines=%E5%B1%B1%E6%B2%B3%E5%85%A5%E7%A0%81%EF%BC%8CAI+%E5%85%A5%E6%98%93;%E6%88%91%E5%9C%A8%E5%81%9A%E6%98%93%E8%AF%AD%E8%A8%80%E7%9A%84+AI+Coding+Agent;%E6%A1%8C%E9%9D%A2%E7%AB%AF+%2B+App+%2B+%E7%B2%BE%E6%98%93%E7%9F%A5%E8%AF%86%E5%BA%93+%2B+%E7%BC%96%E8%AF%91%E9%97%AD%E7%8E%AF" />
 
@@ -20,7 +18,7 @@
 
 <div align="center">
 
-<img src="./assets/1777126279925.jpg" width="100%" alt="EAiCoding visual" />
+<img src="./assets/eaicoding-visual-cropped.jpg" width="100%" alt="EAiCoding visual" />
 
 </div>
 

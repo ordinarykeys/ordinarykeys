@@ -1,0 +1,71 @@
+<svg width="1400" height="430" viewBox="0 0 1400 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1400" y2="430" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fbfaf6"/>
+      <stop offset="0.55" stop-color="#f6f7f3"/>
+      <stop offset="1" stop-color="#eef4f2"/>
+    </linearGradient>
+    <linearGradient id="jade" x1="120" y1="80" x2="1260" y2="350" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0f766e"/>
+      <stop offset="0.55" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <radialGradient id="moon" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1106 105) rotate(90) scale(88)">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.72" stop-color="#f7f3df"/>
+      <stop offset="1" stop-color="#e7dfbd" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="430" rx="28" fill="url(#paper)"/>
+  <rect x="18" y="18" width="1364" height="394" rx="22" stroke="#cbd5d1" stroke-width="2"/>
+
+  <path d="M0 300C160 242 265 293 408 254C560 212 670 98 820 119C985 142 1042 252 1205 224C1282 211 1342 173 1400 133V430H0V300Z" fill="#0f172a" fill-opacity="0.08"/>
+  <path d="M0 315C150 273 292 340 450 287C599 238 670 146 807 163C968 183 1035 290 1192 269C1278 257 1339 221 1400 184V430H0V315Z" fill="#0f766e" fill-opacity="0.10"/>
+  <path d="M0 345C150 325 274 366 430 326C592 285 702 208 865 230C1015 251 1083 336 1240 317C1310 309 1362 287 1400 265V430H0V345Z" fill="#2563eb" fill-opacity="0.08"/>
+
+  <circle cx="1106" cy="105" r="95" fill="url(#moon)"/>
+  <path d="M1010 137C1057 117 1104 115 1152 138" stroke="#c8b36d" stroke-opacity="0.42" stroke-width="2"/>
+
+  <g opacity="0.28" filter="url(#blur)">
+    <path d="M107 103C194 62 284 72 363 124C446 179 525 178 612 121C687 72 790 70 880 125" stroke="#0f766e" stroke-width="28" stroke-linecap="round"/>
+    <path d="M842 312C942 260 1024 269 1102 323C1170 369 1252 371 1324 320" stroke="#2563eb" stroke-width="24" stroke-linecap="round"/>
+  </g>
+
+  <g opacity="0.78">
+    <path d="M92 310C188 255 287 262 382 306C455 340 533 348 607 310C688 268 769 252 860 291C934 323 1007 341 1085 304C1178 260 1275 266 1350 312" stroke="#1f2937" stroke-opacity="0.18" stroke-width="3"/>
+    <path d="M116 327C214 288 292 292 373 323C452 353 543 366 638 331C718 302 797 293 883 324C956 350 1045 364 1136 329C1214 299 1290 301 1354 328" stroke="#0f766e" stroke-opacity="0.22" stroke-width="2"/>
+  </g>
+
+  <g filter="url(#soft)" opacity="0.92">
+    <path d="M92 266C187 218 276 226 358 270C445 318 518 307 604 253C683 203 779 204 863 259C956 320 1037 318 1128 263C1209 214 1303 222 1362 264" stroke="#111827" stroke-opacity="0.25" stroke-width="7" stroke-linecap="round"/>
+    <path d="M108 283C198 247 276 256 358 290C443 326 539 326 628 284C716 243 800 241 884 286C963 328 1063 332 1154 288C1236 248 1308 250 1360 281" stroke="#0f766e" stroke-opacity="0.30" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <text x="112" y="145" fill="#0f172a" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',sans-serif" font-size="26" font-weight="600" letter-spacing="8">山河入码 · AI 入易</text>
+  <text x="110" y="215" fill="#0f172a" font-family="Inter,'Microsoft YaHei','PingFang SC',sans-serif" font-size="68" font-weight="800">ordinarykeys</text>
+  <text x="114" y="258" fill="#0f766e" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',sans-serif" font-size="25" font-weight="600">EAiCoding | 易语言 AI Coding Agent</text>
+  <text x="116" y="304" fill="#334155" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',sans-serif" font-size="20">桌面端 + App + 精易知识库 + 编译闭环</text>
+
+  <g transform="translate(110 335)">
+    <rect width="106" height="34" rx="17" fill="#020617"/>
+    <text x="53" y="23" fill="#f8fafc" text-anchor="middle" font-family="Inter,'Microsoft YaHei',sans-serif" font-size="14" font-weight="700">Tauri</text>
+    <rect x="120" width="102" height="34" rx="17" fill="#0f766e"/>
+    <text x="171" y="23" fill="#f8fafc" text-anchor="middle" font-family="Inter,'Microsoft YaHei',sans-serif" font-size="14" font-weight="700">React</text>
+    <rect x="236" width="96" height="34" rx="17" fill="#2563eb"/>
+    <text x="284" y="23" fill="#f8fafc" text-anchor="middle" font-family="Inter,'Microsoft YaHei',sans-serif" font-size="14" font-weight="700">Rust</text>
+    <rect x="346" width="132" height="34" rx="17" fill="#b45309"/>
+    <text x="412" y="23" fill="#fff7ed" text-anchor="middle" font-family="Inter,'Microsoft YaHei',sans-serif" font-size="14" font-weight="700">Non-Commercial</text>
+  </g>
+
+  <path d="M1220 80C1203 120 1204 162 1232 201C1251 228 1255 263 1234 297" stroke="#0f172a" stroke-opacity="0.20" stroke-width="12" stroke-linecap="round"/>
+  <path d="M1264 78C1248 123 1254 164 1286 202C1309 229 1313 265 1290 303" stroke="#0f766e" stroke-opacity="0.25" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="1228" cy="316" r="8" fill="#0f766e" fill-opacity="0.45"/>
+  <circle cx="1285" cy="323" r="5" fill="#2563eb" fill-opacity="0.45"/>
+</svg>
