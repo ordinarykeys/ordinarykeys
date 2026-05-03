@@ -26,7 +26,7 @@
 
 ## 关于我
 
-我是 `ordinarykeys`，正在做 **EAiCoding**：一个面向易语言开发者的 AI Coding Agent。
+我是 `平凡`（ORDINARY），正在做 **EAiCoding**：一个面向易语言开发者的 AI Coding Agent。
 
 我想做的不是“问一句、答一段”的聊天工具，而是一套真正能进入易语言项目流程的智能开发助手：
 
