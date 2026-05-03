@@ -75,7 +75,21 @@
 </td>
 <td width="42%">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ordinarykeys&repo=eaicoding&theme=transparent&hide_border=true&title_color=0f766e&text_color=334155&icon_color=2563eb" />
+<h3 align="center">项目坐标</h3>
+
+<p align="center">
+  <a href="https://github.com/ordinarykeys/eaicoding">
+    <img src="https://img.shields.io/badge/GitHub-ordinarykeys%2Feaicoding-020617?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<pre>
+Desktop  Tauri + React + Rust
+Mobile   Expo + React Native
+Core     易语言解析 / 回编 / 编译验证
+KB       精易模块 + 本地向量知识库
+Bridge   局域网扫码连接手机端
+</pre>
 
 </td>
 </tr>
